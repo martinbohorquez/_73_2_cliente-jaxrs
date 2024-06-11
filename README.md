@@ -54,6 +54,7 @@ Este proyecto consiste en un cliente JAX-RS desarrollado en Java SDK 21 para con
 │                           │   └── Curso.java
 │                           └── Main.java
 ├── .gitignore
+├── README.md
 └── pom.xml
 ```
 
