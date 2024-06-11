@@ -1,4 +1,4 @@
-# Cliente JAX-RS para Consumir API RESTful
+# Cliente JAX-RS para Consumir API RESTful usando la implementación RESTeasy
 
 ## Descripción
 
