@@ -44,15 +44,10 @@ Este proyecto consiste en un cliente JAX-RS desarrollado en Java SDK 21 para con
 ```markdown
 .
 ├── src
-│   └── main
-│       └── java
-│           └── org
-│               └── mbohorquez
-│                   └── webapp
-│                       └── jaxrs
-│                           ├── models
-│                           │   └── Curso.java
-│                           └── Main.java
+│   └── main/java/org/mbohorquez/webapp/jaxrs
+│                                       ├── models
+│                                       │   └── Curso.java
+│                                       └── Main.java
 ├── .gitignore
 ├── README.md
 └── pom.xml
